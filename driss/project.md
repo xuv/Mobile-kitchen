@@ -13,3 +13,5 @@ required_hardware: [CNC cutter, jigsaw, circular saw, drill, Wood glue or not, s
 license: CERN OHL version 1.2
 ---
 First mobile kitchen produced by Cultureghem for the KOOKMET activity at Abatoir, Anderlecht.
+
+< Reste à ajouter ici une description plus détaillée du projet >
